@@ -4,8 +4,7 @@
 2. [Resposta da questão 2](https://github.com/GabrielTFV/GABtargetsistemas02/blob/main/fibonacci.py)
 
 
-3.
-a) 9
+3.a) 9
 b) 128
 c) 49
 d) 100
