@@ -1,4 +1,4 @@
-1) Resposta: Soma = 91
+```1) Resposta: Soma = 91
 
 
 2)[Resposta da questão 2](https://github.com/GabrielTFV/GABtargetsistemas02/blob/main/fibonacci.py)
@@ -17,5 +17,5 @@ f) 200
 ao da esquerda, se tiver desligada e fria pertence ao da direita. Na segunda ida eu deixo um dos interruptores ligado e ou outro desligado, vou a uma das outras 2 salas e vou saber qual interruptor é responsável pelas outras 2 lâmpadas.
 
 
-5)[Resposta da questão 2](https://github.com/GabrielTFV/GABtargetsistemas02/blob/main/reverterString.py)
+5)[Resposta da questão 2](https://github.com/GabrielTFV/GABtargetsistemas02/blob/main/reverterString.py)```
 
